@@ -1,0 +1,23 @@
+ID da Venda,Cancelado,Nome do Produto,Valor do Produto,Quantidade Vendida,Nome do Vendedor,CPF do Comprador,Data da Venda,Informações Adicionais
+1,False,"['Computador', 'Rádio']","[1599.99, 32.5]","[1, 3]",Thiago,86862580930,28/07/2023,Alpha
+2,False,['TV'],[369.45],[2],Sérgio,83863459008,27/07/2023,Bravo
+3,True,['Microondas'],[115.0],[1],Isadora,37278409004,15/05/2023,Charlie
+4,False,['Computador'],[2780.9],[2],Isadora,39371842016,16/06/2023,Delta
+5,True,['TV'],[536.78],[1],Thiago,37278409004,11/12/2022,Echo
+6,False,"['Microondas', 'TV']","[115.0, 369.45]","[2, 3]",Sérgio,86862580930,13/07/2023,
+7,False,['Ventilador'],[62.33],[4],Isadora,83863459008,14/02/2023,Golf
+8,True,"['Lâmpada', 'Pilhas']","[15.77, 3.0]","[6, 20]",Isadora,37278409004,15/02/2023,Hotel
+9,True,['Rádio'],[32.5],[1],Sérgio,39371842016,16/12/2022,
+10,False,"['TV', 'Rádio', 'Pilhas']","[369.45, 78.99, 3.0]","[2, 3, 7]",Thiago,37278409004,17/11/2022,Juliet
+11,False,['Pilhas'],[9.99],[32],Thiago,86862580930,28/07/2023,
+12,False,['Computador'],[1559.99],[1],Sérgio,83863459008,27/07/2023,Mike
+13,False,"['Impressora', 'TV']","[320.0, 369.45]","[1, 2]",Isadora,37278409004,15/05/2023,
+14,True,['Impressora'],[450.0],[5],Isadora,39371842016,16/06/2023,Oscar
+15,False,['Ventilador'],[129.9],[3],Thiago,37278409004,11/12/2022,Papa
+16,True,['Rádio'],[35.9],[1],Sérgio,86862580930,13/07/2023,Quebec
+17,False,"['Microondas', 'Ventilador']","[167.7, 50.99]","[4, 5]",Isadora,83863459008,14/02/2023,Romeo
+18,False,['TV'],[2589.46],[3],Isadora,37278409004,15/02/2023,Sierra
+19,False,"['Impressora', 'Ventilador', 'Pilhas', 'Radio']","[235.65, 122.35, 4.5, 30.0]","[4, 1, 7, 2]",Sérgio,39371842016,16/12/2022,Tango
+20,True,['Computador'],[999.99],[2],Thiago,37278409004,17/11/2022,
+21,True,['TV'],[1999.99],[1],Thiago,12345678900,12/08/2023,Inclusao Simples
+22,False,"['Rádio', 'Pilhas']","[32.5, 2.99]","[2, 15]",Isadora,14725836900,11/04/2023,Inclusão Multipla
